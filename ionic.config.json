@@ -1,0 +1,7 @@
+{
+  "name": "fireUpload",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
